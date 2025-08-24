@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Applicationv2</string>
+
+    <!-- UI Strings -->
+    <string name="title">Create an RGB Color</string>
+    <string name="red_channel">Red Channel</string>
+    <string name="green_channel">Green Channel</string>
+    <string name="blue_channel">Blue Channel</string>
+    <string name="create_color">CREATE RGB COLOR</string>
+
+    <!-- Toast Messages -->
+    <string name="invalid_input">Enter valid 2-digit hex for each channel</string>
+    <string name="invalid_format">Invalid color format</string>
+</resources>
